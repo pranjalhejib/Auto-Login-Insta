@@ -1,2 +1,3 @@
 # Auto-Login-Insta
-### Using selenium,  Chrome web driver and Java
+### Tools:
+#### Selenium from *[here](https://www.selenium.dev/downloads/)*
